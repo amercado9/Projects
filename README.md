@@ -1,4 +1,4 @@
-Project 1: Recursion
+Project: Image Scanner
 
 Name: Alexa Mercado
 
