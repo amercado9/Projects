@@ -142,10 +142,8 @@ The program includes exception handling to manage input errors.
 It ensures valid image dimensions and character constraints are met.
 
 Future Improvements:
-Implement diagonal connectivity for more complex grouping.
 
-Use a graphical interface to display images visually.
-
+Implement diagonal connectivity for more complex grouping. Use a graphical interface to display images visually.
 This project demonstrates recursion, depth-first search, and character manipulation in Java to solve a connected-component problem efficiently.
 
 
