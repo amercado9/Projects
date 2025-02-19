@@ -27,7 +27,9 @@ How It Works:
 
 5.The processed images are printed along with the number and sizes of the connected groups.
 
+
 Implementation Details
+
 
 main Method: 
 
@@ -50,6 +52,7 @@ SearchNeighbors Method:
 printGrid Method:
 
 -Prints the modified 2D array representing the image with colored groups.
+
 
 Example Input:
 
@@ -81,6 +84,7 @@ Example Input:
  
  ..........
 
+
 Example Output
 
  a..
@@ -92,6 +96,7 @@ Example Output
  1  2
  
  2  1
+ 
  .........a
  
  ...bb....a
