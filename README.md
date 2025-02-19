@@ -125,21 +125,21 @@ Java Development Kit (JDK) 20.0.2 or higher
 
 A Java-compatible text editor or IDE
 
+
 Compilation & Execution
 
-Compile the program:
 
+Compile the program:
 javac Project1.java
 
 Run the program:
-
 java Project1 < test1.txt
+
 
 Error Handling:
 
-The program includes exception handling to manage input errors.
+The program includes exception handling to manage input errors. It ensures valid image dimensions and character constraints are met.
 
-It ensures valid image dimensions and character constraints are met.
 
 Future Improvements:
 
